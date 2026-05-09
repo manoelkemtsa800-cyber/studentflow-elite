@@ -11,15 +11,15 @@
 const DEFAULT_STUDENTS = [
   {
     id: 1,
-    name: "Amine Kouassi",
+    name: "kemtsa",
     field: "Génie Logiciel",
-    level: "Master 2",
+    level: "licence 2",
     category: "dev",
     bio: "Passionné par le développement web full-stack, je crée des applications modernes et performantes. Toujours à la recherche de nouvelles technologies.",
     skills: ["React", "Node.js", "Python", "PostgreSQL", "Docker"],
     cv: "#",
     projects: "#",
-    github: "https://github.com",
+    github: "https://manoelkemtsa800-cyber.github.io/portfoli/",
     linkedin: "https://linkedin.com",
     avatar: "",
     initials: "AK"
