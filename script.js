@@ -11,7 +11,7 @@
 const DEFAULT_STUDENTS = [
   {
     id: 1,
-    name: "kemtsa",
+    name: "kemtsa prince manoel",
     field: "Génie Logiciel",
     level: "licence 2",
     category: "dev",
